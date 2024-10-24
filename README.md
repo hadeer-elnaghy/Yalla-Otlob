@@ -29,4 +29,9 @@ The management dashboard offers comprehensive tools for overseeing the entire fo
   •Menu Management: The capability to update restaurant menus, prices, and promotions quickly to reflect current offerings.
   •Customer Support: A centralized system for handling customer inquiries and complaints, improving overall service quality.
 
-  ![alt text](https://github.com/hadeer-elnaghy/Yalla-Otlob/blob/main/screenshots/1.jpg)   ![alt text](https://github.com/hadeer-elnaghy/Yalla-Otlob/blob/main/screenshots/1%20(1).jpg)
+  ![alt text](https://github.com/hadeer-elnaghy/Yalla-Otlob/blob/main/screenshots/1.jpg)  
+  ![alt text](https://github.com/hadeer-elnaghy/Yalla-Otlob/blob/main/screenshots/2.jpg)
+  ![alt text](https://github.com/hadeer-elnaghy/Yalla-Otlob/blob/main/screenshots/3.jpg)
+  ![alt text](https://github.com/hadeer-elnaghy/Yalla-Otlob/blob/main/screenshots/4.jpg)
+  ![alt text](https://github.com/hadeer-elnaghy/Yalla-Otlob/blob/main/screenshots/5.jpg)
+  ![alt text](https://github.com/hadeer-elnaghy/Yalla-Otlob/blob/main/screenshots/6.jpg)
